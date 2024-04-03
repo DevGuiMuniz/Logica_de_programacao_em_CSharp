@@ -17,9 +17,11 @@ class Program
             Console.WriteLine($"O {num} é um valor positivo!");
 
         }
-        else if (num = 0){
+        else if (num = 0)
+        {
             Console.WriteLine($"O valor {num} é igual a zero!");
-        } else (num < o){
+        }
+        else (num < o){
             Console.WriteLine($"O {num} é um valor negativo!");
         }
 

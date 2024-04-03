@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guigu\\OneDrive\\Área de Trabalho\\logica em C#\\logica em C#.csproj": {}
+    "C:\\Users\\guigu\\Downloads\\Logica_de_programacao_em_CSharp\\logica em C#\\logica em C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guigu\\OneDrive\\Área de Trabalho\\logica em C#\\logica em C#.csproj": {
+    "C:\\Users\\guigu\\Downloads\\Logica_de_programacao_em_CSharp\\logica em C#\\logica em C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guigu\\OneDrive\\Área de Trabalho\\logica em C#\\logica em C#.csproj",
+        "projectUniqueName": "C:\\Users\\guigu\\Downloads\\Logica_de_programacao_em_CSharp\\logica em C#\\logica em C#.csproj",
         "projectName": "logica em C#",
-        "projectPath": "C:\\Users\\guigu\\OneDrive\\Área de Trabalho\\logica em C#\\logica em C#.csproj",
+        "projectPath": "C:\\Users\\guigu\\Downloads\\Logica_de_programacao_em_CSharp\\logica em C#\\logica em C#.csproj",
         "packagesPath": "C:\\Users\\guigu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guigu\\OneDrive\\Área de Trabalho\\logica em C#\\obj\\",
+        "outputPath": "C:\\Users\\guigu\\Downloads\\Logica_de_programacao_em_CSharp\\logica em C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guigu\\AppData\\Roaming\\NuGet\\NuGet.Config"
